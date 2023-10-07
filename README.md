@@ -37,7 +37,7 @@ Additionally, a scatter plot will be generated, showing the distribution of late
 # File Descriptions
 - `main.py`: The main script to train the VAE and visualize results.
 - `vae_model.py`: Contains the VAE architecture implemented as a TensorFlow Keras model.
-- `losses.py`: Custom loss functions used in training the VAE.
+- `loss.py`: Custom loss function used in training the VAE.
 - `utils.py`: Utility functions for data loading and visualization.
 - `figs/`: Directory to save generated figures and scatter plots.
 
