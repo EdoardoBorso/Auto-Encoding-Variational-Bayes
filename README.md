@@ -14,7 +14,7 @@ This repository contains an implementation of a Variational Autoencoder (VAE) us
 You can install the required packages using `pip`:
 
 ```bash
-pip install tensorflow tensorflow_datasets matplotlib seaborn
+pip install tensorflow tensorflow_datasets matplotlib seaborn pandas
 ```
 
 # Usage
