@@ -4,11 +4,12 @@ This repository contains an implementation of a Variational Autoencoder (VAE) us
 
 ## Requirements
 
-- Python 3.x
-- TensorFlow 2.x
-- TensorFlow Datasets
-- Matplotlib
-- Seaborn
+- Python 3.10
+- TensorFlow 2.14.0 
+- TensorFlow Datasets 4.9.3
+- Matplotlib 3.8.0
+- Seaborn 0.13.0
+- Pandas 2.1.1
 
 You can install the required packages using `pip`:
 
